@@ -10,7 +10,7 @@
         "vscode": "^1.26.0"
     },
     "keywords": [
-		"Java",
+		"Java"
 	],
     "categories": [
         "Extension Packs"
@@ -20,7 +20,7 @@
         "pthorsson.vscode-jsp",
         "adashen.vscode-tomcat",
         "DotJoshJohnson.xml",
-        "sohibe.java-generate-setters-getters",
+        "sohibe.java-generate-setters-getters"
     ],
 	"__metadata": {
 		"publisherDisplayName": "Ricardo Emerson"

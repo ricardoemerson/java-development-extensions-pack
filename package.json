@@ -2,7 +2,7 @@
     "name": "java-development-extensions-pack",
     "displayName": "Java Development Extensions Pack",
     "description": "A set of useful extensions for Java project.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "ricardo-emerson",
     "icon": "extension-icon.png",
     "repository": "https://github.com/ricardoemerson/java-development-extensions-pack",
@@ -10,17 +10,19 @@
         "vscode": "^1.26.0"
     },
     "keywords": [
-		"Java"
+		"Java",
+		"Spring"
 	],
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [
-        "vscjava.vscode-java-pack",
-        "pthorsson.vscode-jsp",
         "adashen.vscode-tomcat",
         "DotJoshJohnson.xml",
-        "sohibe.java-generate-setters-getters"
+        "Pivotal.vscode-boot-dev-pack",
+        "pthorsson.vscode-jsp",
+        "vscjava.vscode-java-pack",
+        "YouMayCallMeV.vscode-java-saber"
     ],
 	"__metadata": {
 		"publisherDisplayName": "Ricardo Emerson"

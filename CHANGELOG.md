@@ -2,6 +2,11 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.2.0]
+
+- Removed Java Extension Pack extension.
+- Removed Spring Boot Extension Pack extension.
+
 ## [1.1.0]
 
 - Added Java IDE extension.

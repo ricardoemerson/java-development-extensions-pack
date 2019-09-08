@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.3.1]
+
+- Fix the README and extension icon size.
+
 ## [1.3.0]
 
 - Added Lombok Annotations Support for VS Code extension.

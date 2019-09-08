@@ -13,6 +13,6 @@ This extension package contains useful extensions for working with Java in visua
 ### Extensions that are not part of this package and it is recommended that you install them separately.
 
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Popular extensions for Java development and more.
-- [Spring Boot Extension Pack]([url](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)) - A collection of extensions for developing Spring Boot applications.
+- [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack) - A collection of extensions for developing Spring Boot applications.
 
 **Enjoy!**

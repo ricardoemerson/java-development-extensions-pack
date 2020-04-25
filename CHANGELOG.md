@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.3.3]
+
+- Updated the Readme.md file.
+
 ## [1.3.2]
 
 - Fix the README.

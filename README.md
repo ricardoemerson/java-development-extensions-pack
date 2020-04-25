@@ -1,5 +1,10 @@
 # Java Development Extensions Pack
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/ricardo-emerson.java-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.java-development-extensions-pack)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/ricardo-emerson.java-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.java-development-extensions-pack)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.java-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.java-development-extensions-pack)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.java-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.java-development-extensions-pack&ssr=false#review-details)
+
 This extension package contains useful extensions for working with Java in visual studio code.
 
 ### Extensions Included

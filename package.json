@@ -2,7 +2,7 @@
   "name": "java-development-extensions-pack",
   "displayName": "Java Development Extensions Pack",
   "description": "A set of useful extensions for Java project.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/java-development-extensions-pack",
@@ -17,10 +17,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "adashen.vscode-tomcat",
     "DotJoshJohnson.xml",
     "GabrielBB.vscode-lombok",
     "pthorsson.vscode-jsp",
+    "redhat.vscode-community-server-connector",
     "ricardo-emerson.java-sysout",
     "YouMayCallMeV.vscode-java-saber"
   ],

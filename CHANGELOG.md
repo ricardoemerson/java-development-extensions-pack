@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.7.0]
+
+- Added Remote Server Protocol UI extension.
+
 ## [1.6.1]
 
 - Update the badges in README.md.

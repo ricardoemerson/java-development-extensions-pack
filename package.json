@@ -2,7 +2,7 @@
   "name": "java-development-extensions-pack",
   "displayName": "Java Development Extensions Pack",
   "description": "A set of useful extensions for Java project.",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/java-development-extensions-pack",
@@ -21,6 +21,7 @@
     "GabrielBB.vscode-lombok",
     "pthorsson.vscode-jsp",
     "redhat.vscode-community-server-connector",
+    "redhat.vscode-rsp-ui",
     "ricardo-emerson.java-sysout",
     "vscjava.vscode-gradle",
     "YouMayCallMeV.vscode-java-saber"

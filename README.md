@@ -16,6 +16,7 @@ This extension package contains useful extensions for working with Java in visua
 - [Java Server Pages (JSP)](https://marketplace.visualstudio.com/items?itemName=pthorsson.vscode-jsp) - JSP language support for Visual Studio Code, ported from TextMate's JSP bundle.
 - [Java SysOut](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.java-sysout) - Help insert and remove System.out.println(*) statement.
 - [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok) - A lightweight extension to support Lombok annotations processing in Visual Studio Code.
+- [Remote Server Protocol UI](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-rsp-ui) - Provides a unified UI to interact with runtimes and servers managed over the RSP protocol..
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
 
 ### Extensions that are not part of this package and it is recommended that you install them separately.

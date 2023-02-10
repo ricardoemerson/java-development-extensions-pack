@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.6.0]
+
+- Added Gradle for Java extension.
+
 ## [1.5.0]
 
 - Added Community Server Connectors extension.

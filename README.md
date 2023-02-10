@@ -1,13 +1,9 @@
 # Java Development Extensions Pack
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ricardo-emerson.java-development-extensions-pack.svg?style=flat-square)
-
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ricardo-emerson.java-development-extensions-pack.svg?style=flat-square)
-
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/ricardo-emerson.java-development-extensions-pack.svg?style=flat-square)
-
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/ricardo-emerson.java-development-extensions-pack.svg?style=flat-square)
-
 [![GitHub](https://img.shields.io/github/stars/ricardoemerson/java-development-extensions-pack.svg?style=flat-square)](https://github.com/ricardoemerson/java-development-extensions-pack)
 
 This extension package contains useful extensions for working with Java in visual studio code.

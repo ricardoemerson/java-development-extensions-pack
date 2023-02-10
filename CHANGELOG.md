@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.6.1]
+
+- Update the badges in README.md.
+
 ## [1.6.0]
 
 - Added Gradle for Java extension.

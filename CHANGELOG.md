@@ -2,6 +2,10 @@
 
 All notable changes to the "java-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.9.0]
+
+- Updated the extension logo and name.
+
 ## [1.8.0]
 
 - Updated the extension reference of Lombok Annotations Support for VS Code.

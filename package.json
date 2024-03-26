@@ -1,8 +1,8 @@
 {
   "name": "java-development-extensions-pack",
-  "displayName": "Java Development Extensions Pack",
+  "displayName": "Development Extensions Pack for Java",
   "description": "A set of useful extensions for Java project.",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/java-development-extensions-pack",

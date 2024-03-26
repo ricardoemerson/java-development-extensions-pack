@@ -1,4 +1,4 @@
-VSCode extension Java Development Extensions Pack
+VSCode extension Development Extensions Pack for Java
 Copyright (c) 2019 Ricardo Emerson
 All rights reserved.
 
